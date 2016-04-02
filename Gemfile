@@ -1,0 +1,7 @@
+source 'https://rubygems.org'
+gem 'github-pages' 
+gem 'octopress-codefence'
+gem 'octopress', '~> 3.0'
+gem 'octopress-solarized'
+gem 'octopress-feeds'
+gem 'octopress-linkblog'
